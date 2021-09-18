@@ -1,0 +1,15 @@
+body{
+	background: #C0C0C0;
+}
+
+td{
+	height: 30px;
+	width: 100px;
+}
+#cssTable td{
+	text-align: center;
+	vertical-align: middle;
+}
+table{
+	text-align: center;
+}
