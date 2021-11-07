@@ -1,0 +1,14 @@
+.Inicio{
+	top: 200;
+	text-align: center;
+}
+
+.imagem{
+	text-align: right;
+	display: table-cell;
+	float: right;
+}
+
+.corpo{
+	text-align: center;
+}
